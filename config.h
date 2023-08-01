@@ -49,3 +49,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define LED4_PIN A4
 #define LED5_PIN A3
 #define LED6_PIN F1
+
+#define COMBO_VARIABLE_LEN
